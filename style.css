@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(126, 77, 77);
+    background-color: black;
     margin: 5%;
     padding: 0;
     box-sizing: border-box;
@@ -136,7 +136,7 @@ body {
     position: absolute;
     top: 20px;
     right: 200px;
-    background-color: rgb(126, 77, 77);
+    background-color: black;
     font-size: 30px;
 }
 
